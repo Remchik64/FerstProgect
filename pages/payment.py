@@ -85,7 +85,7 @@ if st.button("Купить токены"):
                 },
                 "confirmation": {
                     "type": "redirect",
-                    "return_url": "http://192.168.1.68:8501/payment"  # Замените на URL страницы оплаты
+                    "return_url": "https://ferstprogect-4s6urffdveoebnwecknk7z.streamlit.app/payment"  # Замените на URL страницы оплаты
                 },
                 "description": "Покупка токенов"
             })
@@ -111,7 +111,7 @@ if st.button("Пополнить баланс"):
             },
             "confirmation": {
                 "type": "redirect",
-                "return_url": "http://192.168.1.68:8501/payment"  # Замените на URL страницы оплаты
+                "return_url": "https://ferstprogect-4s6urffdveoebnwecknk7z.streamlit.app/payment"  # Замените на URL страницы оплаты
             },
             "description": "Пополнение баланса"
         })
