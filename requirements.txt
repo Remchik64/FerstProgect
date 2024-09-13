@@ -3,6 +3,6 @@
     tinydb==4.7.0
     requests==2.28.1
     bcrypt==3.2.0
-    streamlit-extras==0.1.0  # Убедитесь, что версия актуальна
+    streamlit-extras==0.1.1  # Убедитесь, что версия актуальна
     pip>=24.2
     setuptools>=65.5.0
