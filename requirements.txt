@@ -6,3 +6,4 @@
     bcrypt==3.2.0
     pip>=24.2
     setuptools>=65.5.0
+    yookassa
